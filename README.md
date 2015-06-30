@@ -9,7 +9,7 @@ C:\>mitigationview.exe
 usage: mitigationview.exe <pid>
 ```
 
-## Example
+## Calc example
 
 ```
 C:\>calc
@@ -33,6 +33,9 @@ ProcessSystemCallDisablePolicy
  DisallowWin32kSystemCalls                  0
 ProcessExtensionPointDisablePolicy
  DisableExtensionPoints                     0
+```
+
+## Chrome example
 
 ```
 C:\>tasklist | findstr chrome
