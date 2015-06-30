@@ -1,4 +1,4 @@
-# mitigationsview
+# mitigationview
 
 Tool to display a Windows 8+ process mitigation policy. Basically its just
 a command-line tool to display output from [GetProcessMitigationPolicy](https://msdn.microsoft.com/en-us/library/windows/desktop/hh769085(v=vs.85).aspx).
